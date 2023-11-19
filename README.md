@@ -1,0 +1,1 @@
+This is diabetes prediction ML model
